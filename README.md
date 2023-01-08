@@ -1,16 +1,22 @@
-# sportsappflutter
+# Football News App
 
-A new Flutter project.
+This is a flutter-developed application writing in Dart language.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+It can be installed on
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+Android
+```
+```bash
+IOS
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Usage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```python
+To get updated football news.
+```
+![Image (1)](https://user-images.githubusercontent.com/74013982/211174774-3cbe42a3-7f5a-4d56-b23e-3e1333a5e55a.png)
+![Image (2)](https://user-images.githubusercontent.com/74013982/211174782-aa77001e-346e-49d4-9a69-19375a9860ab.png)
